@@ -15,7 +15,7 @@ This project connects Python with Salesforce using the Simple-Salesforce API.
 ## How to Run
 
 1. Install dependency:
-   pip install simple-salesforce
+python3 -m pip install simple-salesforce
 
 2. Add your Salesforce credentials
 
