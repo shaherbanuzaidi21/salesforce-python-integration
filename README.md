@@ -21,3 +21,8 @@ python3 -m pip install simple-salesforce
 
 3. Run:
    python salesforce_connect.py
+
+   ## Sample Output
+
+ID: 001xxxxxxx, Name: ABC Company  
+ID: 001xxxxxxx, Name: XYZ Ltd
